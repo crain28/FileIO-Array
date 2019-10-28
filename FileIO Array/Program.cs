@@ -30,7 +30,7 @@ namespace FileIO_Array
         static void DisplayStudentInfo(string[] students)
         {
             Console.WriteLine();
-            Console.WriteLine("Student Info");
+            Console.WriteLine("Student Infomation");
             Console.WriteLine();
 
             //
